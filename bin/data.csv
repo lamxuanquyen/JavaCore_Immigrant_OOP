@@ -1,0 +1,13 @@
+type,immigrantID,name,birthDate,passPort,nationality,immigrantDate,stayLength,university,majors,company,laborType,stayPlace,discountRate
+1,IM001,tran duc anh,6/1/1995,36A1234567,HAN QUOC,11/5/2000,2 nam,Seol,cntt,,,,
+2,IM002,le van quang,5/7/1993,36A1234568,VIET NAM,10/4/2001,3 nam,,,hoa binh,pho thong,,
+3,IM003,duong viet duc,1/15/1996,36A1234569,PHAP,5/6/2002,2 nam,,,saigontourist,,muong thanh,
+1,IM004,huynh kong thuc,7/8/1995,36A1234570,NHAT,1/15/1999,1 nam,Osaka,sinh hoc,,,,
+2,IM005,tran xuan can,2/2/1991,36A1234571,ITALIA,12/9/2000,2 nam,,,vingroup,chuyen nghanh,,
+3,IM006,nguyen van nguyen,11/4/1992,36A1234572,THAI LAN,10/4/2001,4 nam,,,ben thanh,,binh minh hotel,
+1,IM007,pham duc bim,10/7/1999,36A1234573,MY,9/9/1999,2 nam,Harvard,toan hoc,,,,
+2,IM008,le thi ha,5/9/1992,36A1234574,UC,6/7/2002,3 nam,,,fpt,chuyen nghanh,,
+3,IM009,nguyen trong tai,6/7/1999,36A1234575,ANH,8/10/2000,4 nam,,,tst,,novotel hotel,
+1,IM001,mai anh vu,10/4/1997,36A1234576,PHAP,4/5/2003,1 nam,Monash,vat li,,,,
+2,IM012,le van quang,5/7/1993,36A123@568,VIET NAM,10/4/2001,3 nam,,,hoa binh,pho thong,,
+3,IM011,duong viet duc,1/15/2032,36A1234569,PHAP,5/6/2022,2 nam,,,saigontourist,,muong thanh,
